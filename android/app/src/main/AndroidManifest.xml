@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.guardians_of_the_lost_temple">
+    package="com.guardians_of_the_lost_temple">
     <application
         android:label="guardians_of_the_lost_temple"
         android:icon="@mipmap/ic_launcher">
